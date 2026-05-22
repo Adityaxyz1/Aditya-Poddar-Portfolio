@@ -8,8 +8,8 @@ const projects = [
     title: "HireSense",
     category: "AI-Powered Applicant Tracking System",
     tools: "React, Node.js, AI/ML, REST APIs",
-    image: "/images/callhq.png",
-    link: "https://github.com/Adityaxyz1/HireSense",
+    image: "/images/hiresense.png",
+    link: "https://hiresense.pages.dev",
   },
   {
     title: "WAUREM",
