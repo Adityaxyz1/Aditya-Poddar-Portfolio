@@ -22,7 +22,7 @@ const Contact = () => {
 
             <h4>Education</h4>
             <p>
-              Minor in Artificial Intelligence, Indian Institute of Technology Ropar — Jan 2025–Jan 2026
+              Major Certification in Artificial Intelligence, Indian Institute of Technology Ropar — Jan 2025–Jun 2026
             </p>
             <p>
               B.Tech in Computer Science and Engineering, Sarala Birla University — Jul 2022–Jun 2026

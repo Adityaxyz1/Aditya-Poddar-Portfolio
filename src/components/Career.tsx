@@ -15,6 +15,21 @@ const Career = () => {
           <div className="career-info-box">
             <div className="career-info-in">
               <div className="career-role">
+                <h4>Trainee Software Engineer</h4>
+                <h5>HUMB Global HealthTech</h5>
+              </div>
+              <h3>2026</h3>
+            </div>
+            <p>
+              Jun 2026 – Present. Developing full-stack healthcare applications with
+              scalable frontend and backend features. Built AI-powered clinical reporting
+              workflows by integrating LLM-based services using React.js, TypeScript,
+              Node.js, Express.js, and PostgreSQL.
+            </p>
+          </div>
+          <div className="career-info-box">
+            <div className="career-info-in">
+              <div className="career-role">
                 <h4>Software Developer Intern</h4>
                 <h5>CodSoft</h5>
               </div>
@@ -38,20 +53,6 @@ const Career = () => {
               Aug 2024 – Aug 2025. Used large-scale transformer-based models, analyzing
               text samples and employed multi-turn context management and advanced
               reinforcement learning to optimize user interaction strategies.
-            </p>
-          </div>
-          <div className="career-info-box">
-            <div className="career-info-in">
-              <div className="career-role">
-                <h4>AI Summer Cohort 1.0</h4>
-                <h5>GUC</h5>
-              </div>
-              <h3>2024</h3>
-            </div>
-            <p>
-              Jun 2024 – Jul 2024. Developed an AI-driven image classification system
-              using CNNs and datasets like ImageNet, utilizing Scikit-learn for model
-              training, validation and fine-tuning hyperparameters.
             </p>
           </div>
           <div className="career-info-box">

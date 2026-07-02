@@ -6,8 +6,10 @@ const About = () => {
       <div className="about-me">
         <h3 className="title">About Me</h3>
         <p className="para">
-          I am currently pursuing a B.Tech in Computer Science and Engineering at Sarala Birla
-          University, along with a Minor in Artificial Intelligence at IIT Ropar. I am highly interested in
+          I hold a B.Tech in Computer Science and Engineering from Sarala Birla
+          University, along with a Major Certification in Artificial Intelligence from IIT Ropar.
+          I currently work as a Trainee Software Engineer at HUMB Global HealthTech, building
+          full-stack healthcare applications and AI-powered workflows. I am highly interested in
           Machine Learning, Computer Vision, and full-stack development, with a track record of
           building scalable applications and AI-driven systems.
         </p>
